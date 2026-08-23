@@ -1,0 +1,12 @@
+Package: com.moondr1.Aroma.theme
+Name: Aroma.theme (Rootless)
+Version: 2.0
+Section: Themes
+Architecture: iphoneos-arm64
+Depends: com.spark.snowboard
+Author: @moondr1 <moondr1@gmail.com>
+Maintainer: @ <moondr1@gmail.com>
+Description: colors and dark icons - Rootless
+Filename: debs/com.moondr1.aroma.theme_2.0_rootless_iphoneos-arm64.deb
+Size: 23742604
+SHA256: 41c19739b1710e57a6c24d9b827c9b7563480e133a9a46938f0c63c82f5c139c
