@@ -24,3 +24,15 @@ Installed-Size: 172
 Filename: debs/com.moondr1.dateinstatus_1.0.0-6+debug_iphoneos-arm64.deb
 Size: 4848
 SHA256: 6d20a5c690c03d7b59ba01336f804eb68da86286d14240492ac6df605782f49e
+
+Package: com.moondr1.widgetx.testwidget
+Name: WidgetX Test Widget
+Version: 1.0
+Section: Widgets
+Architecture: iphoneos-arm64
+Author: moondr1
+Maintainer: moondr1
+Description: Test widget for WidgetsX external repository
+Filename: debs/com.moondr1.widgetx.testwidget_1.0_iphoneos-arm64.deb
+WidgetX: true
+WidgetX-Type: widget
